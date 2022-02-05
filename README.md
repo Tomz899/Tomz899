@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on BudgetApp made in Django.
+- 🌱 I’m currently learning Python, Django, PostgreSQL.
 
 <!--
 **Tomz899/Tomz899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

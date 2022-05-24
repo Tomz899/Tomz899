@@ -4,7 +4,7 @@
 - Also improving my skills in SQL by learing PostgreSQL and using more SQL in work.
 
 ## :bulb: My projects:
-- [OrderPizza](https://github.com/Tomz899/BudgetApp) - Django app for clients ordering and restaurant order managing.
+- [OrderPizza](https://github.com/Tomz899/OrderPizza) - Django app for clients ordering and restaurant order managing.
 - [BudgetApp](https://github.com/Tomz899/BudgetApp) - Django app to track your budget by adding income and expenses.
 - [ToDoApp](https://github.com/Tomz899/ToDoApp) - Django todo app.
 - [TicTacToe Game](https://github.com/Tomz899/tictactoe) - A basic tic tac toe game writed in python during my learning period.

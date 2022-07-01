@@ -14,9 +14,10 @@
 - Also improving my skills in SQL by learing PostgreSQL and using more SQL in work.
 
 ## :bulb: My projects:
-- [Images-REST-API](https://github.com/Tomz899/Images-REST-API) - Django Rest Framework API for uploading images. 
-- [OrderPizza](https://github.com/Tomz899/OrderPizza) - Django app for clients ordering and restaurant order managing.
+- [CyberPizza](https://github.com/Tomz899/OrderPizza) - *Beep* Web application in cyberpunk style to let customers order their favorite pizza with crazy
+ingredients. App have a restaurant manage panel to help you control orders and flag them as finished.
 - [BudgetApp](https://github.com/Tomz899/BudgetApp) - Django app to track your budget by adding income and expenses.
+- [Images-REST-API](https://github.com/Tomz899/Images-REST-API) - Django Rest Framework API for uploading images. 
 - [pandas-data](https://github.com/Tomz899/pandas-data) - My python, pandas scripts to work with excel data.
 - [ToDoApp](https://github.com/Tomz899/ToDoApp) - Django todo app.
 
